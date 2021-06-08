@@ -72,7 +72,7 @@ const player = add([
 
 const score = add([
   text('0'),
-  pos(50, 50),
+  pos(550, 20),
   layer('ui'),
   scale(3),
   {
@@ -83,7 +83,7 @@ const score = add([
 const TIME_LEFT = 14
 const timer = add([
   text('0'),
-  pos(100, 50),
+  pos(550, 50),
   layer('ui'),
   scale(2),
   {
