@@ -8,7 +8,7 @@ when the timer reaches zero or if the enemy aliens reach the spaceship. The game
 
 <b> The goal of this game was to understand the basics of Kaboom.js and improve my JavaScript skills by recreating a classic arcade game. </b> 
 
-<b>Click on the link below to play my game!</b>
+<b>Click the link to play my game!</b>
 https://replit.com/@BiancaLyons/SpaceInvaders#index.html
 
 Core Concepts I learned Completing this Project:
@@ -26,3 +26,7 @@ Possible Improvements:
 -	Include a difficulty selection of easy, medium, or hard
 -	Allow enemy aliens to shoot back and maneuver randomly around the screen
 
+
+<img src="screenshots\startGameplay.png"> 
+<img src="screenshots\gameplay.png">
+<img src="screenshots\score.png">
